@@ -4,7 +4,7 @@
 
 ![web-yazilim-banner](https://user-images.githubusercontent.com/119808448/236118002-e9d877b4-4366-46a3-97ce-f76eba46ac76.jpg)
 ---
-    Merhaba, ben Umut Can Şimşek. 05.0.2006 doğumluyum bilgisayar ve yazılımdan büyük keyif alıyorum.Teknolojik gelişmeleri yakından
+    Merhaba, ben Umut Can Şimşek. 05.07.2006 doğumluyum bilgisayar ve yazılımdan büyük keyif alıyorum.Teknolojik gelişmeleri yakından
     takip ediyor ve kendimi sürekli olarak geliştirmek istiyorum
             
     Yazılım ile ilgilenmeye Liseye başladığım zaman ilgi duymaya başladım ve o zamandan beri kendimi geliştirmek için uğraşıyorum.
