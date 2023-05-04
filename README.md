@@ -7,7 +7,7 @@
     Merhaba, ben Umut Can Şimşek. 05.07.2006 doğumluyum bilgisayar ve yazılımdan büyük keyif alıyorum.Teknolojik gelişmeleri yakından
     takip ediyor ve kendimi sürekli olarak geliştirmek istiyorum
             
-    Yazılım ile ilgilenmeye Liseye başladığım zaman ilgi duymaya başladım ve o zamandan beri kendimi geliştirmek için uğraşıyorum.
+    Yazılım ile Liseye başladığım zaman ilgi duymaya başladım ve o zamandan beri kendimi geliştirmek için uğraşıyorum.
     Başlangıçta temel programa dilleriyle başlasamda şuan bir çok dil öğrenmek için çabalıyorum.Aynı zamanda, yeni programlama            
     dilleri ve teknolojiler hakkında da sürekli olarak araştırma yaparak bilgilerimi güncel tutmaya çalışıyorum.
             
