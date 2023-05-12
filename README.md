@@ -13,6 +13,8 @@
             
     Gelecekte Üniversitede yazılım mühendisi,bilgisayar mühendisi veya bilgisayar bilimleri ile ilgili bir bölüm okuyup bu alanda
     çalışmak istiyorum
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutcansimsek75)](https://github.com/anuraghazra/github-readme-stats)
             
     Yaptığım Projeleri Buradan İzliyebilirsiniz: https://www.youtube.com/@umutcansimsek75
     Linkedin:https://www.linkedin.com/in/umut-can-%C5%9Fim%C5%9Fek-859947253/
