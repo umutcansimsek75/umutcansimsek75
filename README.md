@@ -22,6 +22,8 @@
     Yetenekler/Skills:Flutter /Asp.Net /JS /Html /Css /Php /Unity /C#
 ---            
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/umutcansimsek75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/umut-can-%C5%9Fim%C5%9Fek-859947253//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/umutcansimsek75/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/umutcansimsek75)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@umutcansimsek75)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/umutcansimsek75)  
+
+
 
 ![umutcansimsek75's github stats](https://github-readme-stats.vercel.app/api?username=umutcansimsek75&show_icons=true&theme=radical)
